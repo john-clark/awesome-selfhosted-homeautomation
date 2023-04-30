@@ -37,7 +37,7 @@ LIFX-Control-Panel|https://github.com/samclane/LIFX-Control-Panel|LIFX-brand sma
 [Mozilla WebThings Gateway](http://iot.mozilla.org/gateway)|https://github.com/mozilla-iot/gateway|software distribution for smart home gateways
 [MyController.org](http://mycontroller.org/)|https://github.com/mycontroller-org/|Controller MySensors devices
 [MyNodes.NET](http://www.mynodes.net/)|https://github.com/dy-sh/MyNodes.NET|create your smart devices, automate them
-[MySensors](https://www.mysensors.org||Community
+[MySensors](https://www.mysensors.org)|https://github.com/mysensors|Community
 [Netbeast](http://netbeast.co)|https://github.com/netbeast|IoT development platform
 [NodeRed](https://nodered.org/)|https://github.com/node-red|Low-code programming for event-driven applications
 [openHAB](https://www.openhab.org)|https://github.com/openhab|Java-based home automation
