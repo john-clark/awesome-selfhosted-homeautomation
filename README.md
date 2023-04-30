@@ -1,9 +1,8 @@
 
 # Open Source Home Automation
 
-
 Name|Github URL|Description  
---|--|------------------------------------------------------
+--|--|---
 [Ago Control](http://www.agocontrol.com)|https://github.com/agocontrol|framework for device control
 [AssistantComputerControl](https://assistantcomputercontrol.com)|https://github.com/AlbertMN/AssistantComputerControl|Google Home, Amazon Alexa and Microsoft Cortana assistants  
 [Calaos](https://calaos.fr/)| https://github.com/calaos |C++ HA server daemon
@@ -13,6 +12,7 @@ Name|Github URL|Description
 [DomotiGa](https://domotiga.nl)|https://github.com/DomotiGa|Home Automation Software written in Gambas Basic and runs on Linux
 [Domoticz](https://www.domoticz.com)|https://github.com/domoticz|home automation system
 [eGeoffrey](https://www.egeoffrey.com/)|https://github.com/egeoffrey|flexible and extensible framework
+[Emoncms](https://emoncms.org/)|https://github.com/emoncms|application for processing, logging and visualising energy, temperature and other
 [ESPEasy](https://www.letscontrolit.com/wiki/index.php/ESPEasy)|https://github.com/letscontrolit/ESPEasy|Easy firmware for Domoticz
 [ESPHome](https://esphome.io)|https://github.com/esphome|control your ESP8266/ESP32
 [EVA ICS](https://www.eva-ics.com)|https://github.com/alttch/eva3/|automated control and monitoring systems development
@@ -37,14 +37,18 @@ LIFX-Control-Panel|https://github.com/samclane/LIFX-Control-Panel|LIFX-brand sma
 [Mozilla WebThings Gateway](http://iot.mozilla.org/gateway)|https://github.com/mozilla-iot/gateway|software distribution for smart home gateways
 [MyController.org](http://mycontroller.org/)|https://github.com/mycontroller-org/|Controller MySensors devices
 [MyNodes.NET](http://www.mynodes.net/)|https://github.com/dy-sh/MyNodes.NET|create your smart devices, automate them
+[MySensors](https://www.mysensors.org||Community
 [Netbeast](http://netbeast.co)|https://github.com/netbeast|IoT development platform
+[NodeRed](https://nodered.org/)|https://github.com/node-red|Low-code programming for event-driven applications
 [openHAB](https://www.openhab.org)|https://github.com/openhab|Java-based home automation
+[OpenHome](https://www.openhome.org/wiki)|https://github.com/openhome|
 openLuup|https://github.com/akbooer/openLuup|ure-Lua open-source emulation of Vera Luup
 [openTAP](https://blog.opentap.io/opentap-for-home-automation)|https://github.com/opentap|unique path to automate your residence
 [phpMyDomo](https://www.phpmydomo.org)|https://github.com/phpMyDomo|Control any Home Automation Software
 [PiDome](http://www.pidome.org/)|https://github.com/vendor-vandor/pidome-unofficial|set of tools
+[PiHome](https://www.pihome.eu/)|https://github.com/pihome-shc/pihome|Smart Heating Control
+[PiHomeHVAC](https://www.pihome.eu/)|https://github.com/PiHomeHVAC/|Smart Heating, Ventilation and Air Conditioning
 [Pimatic](http://pimatic.org/)|https://github.com/pimatic|ome automation server and framework for the raspberry pi 
 [SIMO.io](http://simo.io)|https://github.com/SIMO-io|smart home automation
 [Tasmota](https://tasmota.github.io/docs)|https://github.com/arendst/tasmota/|ESP8266 with easy configuration using webUI
 [t6 IoT](https://api.internetcollaboratif.info)|https://github.com/mathcoll/t6|IoT platform to connect physical Objects with time-series DB and perform Data Analysis
-
